@@ -17,7 +17,7 @@ Este repositorio tiene ramas (branches). Puedes usar el menú emergente de la ra
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/diana-diaz-bisbe).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/desarrolla-modelos-de-machine-learning-en-azure
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQHpyPTkSX7gqw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728299858264?e=2147483647&v=beta&t=6TCh6HPPf97bnrxPwGsxNpS5iucmXOa4zIjM8QE7RGw
 
 [1]: # (End of ES-Instruction ###############################################################################################)
