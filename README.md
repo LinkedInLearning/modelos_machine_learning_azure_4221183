@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El c
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Descubre el poder de Azure Machine Learning en este curso enfocado en la práctica. Aprenderás a desarrollar modelos de Machine Learning desde cero, utilizando herramientas avanzadas para la preparación de datos, el desarrollo de modelos y la creación de pipelines reutilizables. Este curso está diseñado para profesionales que desean mejorar su capacidad para optimizar flujos de trabajo y mejorar el rendimiento de los modelos. Aumenta tu conocimiento y lleva tu carrera al siguiente nivel con Azure Machine Learning.
 
 ## Instrucciones
 
